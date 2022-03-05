@@ -1,5 +1,4 @@
 # A LITTLE BIT ABOUT ME
------------------------
 - 👋 Hi, I’m Nick
 - ✈️ I’m interested in ice hockey, movies, and traveling
 - 🖥️ I’m currently learning digital forensics and cybersecurity test engineering
